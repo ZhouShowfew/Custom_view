@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Line">
+        <attr name="line_height" format="dimension"></attr>
+        <attr name="line_width" format="dimension"></attr>
+        <attr name="line_color_success" format="color"></attr>
+        <attr name="line_color_fail" format="color"></attr>
+        <attr name="line_color_progress" format="color"></attr>
+    </declare-styleable>
+    <declare-styleable name="NinePhotoView">
+        <attr name="NinePhotoView_ninephoto_hspace" format="dimension"></attr>
+        <attr name="NinePhotoView_ninephoto_vspace" format="dimension"></attr>
+    </declare-styleable>
+</resources>
