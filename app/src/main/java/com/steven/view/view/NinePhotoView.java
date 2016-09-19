@@ -1,4 +1,4 @@
-package com.steven.view;
+package com.steven.view.view;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -8,6 +8,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.steven.view.R;
 import com.steven.view.util.Utils;
 
 import java.util.ArrayList;

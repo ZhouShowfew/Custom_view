@@ -1,4 +1,4 @@
-package com.steven.view;
+package com.steven.view.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -8,6 +8,7 @@ import android.graphics.Paint;
 import android.util.AttributeSet;
 import android.view.View;
 
+import com.steven.view.R;
 import com.steven.view.util.Utils;
 
 /**

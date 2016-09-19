@@ -10,12 +10,12 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.steven.view.SecondActivity">
-    <com.steven.view.NinePhotoView
+    <com.steven.view.view.NinePhotoView
         android:id="@+id/photoview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:NinePhotoView_ninephoto_hspace="10dp"
         app:NinePhotoView_ninephoto_vspace="10dp">
 
-    </com.steven.view.NinePhotoView>
+    </com.steven.view.view.NinePhotoView>
 </RelativeLayout>
